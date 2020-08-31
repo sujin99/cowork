@@ -31,6 +31,7 @@ public class C {
 
 	
 	public void jisu() {
+		System.out.println("테스트");
 		
 	}
 
