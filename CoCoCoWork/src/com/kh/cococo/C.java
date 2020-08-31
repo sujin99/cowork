@@ -20,6 +20,9 @@ public class C {
 		
 
 	}
+	public void bang() {
+		System.out.println("pull");
+	}
 
 	
 	public void jisu() {
