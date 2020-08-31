@@ -18,12 +18,8 @@ public class C {
 		
 
 	}
-<<<<<<< HEAD
->>>>>>> branch 'master' of https://github.com/sujin99/cowork.git
 	public void bang() {
 		System.out.println("pull");
 	}
-=======
 
->>>>>>> branch 'master' of https://github.com/sujin99/cowork.git
 }
