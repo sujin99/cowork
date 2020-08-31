@@ -1,18 +1,29 @@
 package com.kh.cococo;
 
 public class C {
-<<<<<<< HEAD
+
+	public int add(int x, int y) {
+		return x + y;
+	}
+	public void sujin99() {
+		// 팀장이 추가
+	}
 	
 	public void test() {
 		
 	}
 
-=======
+
 	public void sujin() {
 		
+
 	}
+<<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/sujin99/cowork.git
 	public void bang() {
 		System.out.println("pull");
 	}
+=======
+
+>>>>>>> branch 'master' of https://github.com/sujin99/cowork.git
 }
