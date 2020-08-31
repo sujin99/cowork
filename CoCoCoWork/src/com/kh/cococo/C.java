@@ -1,15 +1,22 @@
 package com.kh.cococo;
 
 public class C {
-<<<<<<< HEAD
+
+	public int add(int x, int y) {
+		return x + y;
+	}
+	public void sujin99() {
+		// 팀장이 추가
+	}
 	
 	public void test() {
 		
 	}
 
-=======
+
 	public void sujin() {
 		
+
 	}
->>>>>>> branch 'master' of https://github.com/sujin99/cowork.git
+
 }
