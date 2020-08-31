@@ -1,6 +1,5 @@
 package com.kh.cococo;
 
-public class Honggd {
+public class C {
 
 }
-
